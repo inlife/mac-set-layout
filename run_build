@@ -1,0 +1,1 @@
+mkdir -p build && gcc "source/changeInputSource.m" -o "build/changeInputSource" -l objc -framework foundation -framework carbon
